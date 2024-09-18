@@ -1,6 +1,6 @@
 a = []
 
-for i in range(0,-15, -1):
+for i in range(0,-200, -1):
     a.append(i)
     print(a)
     
